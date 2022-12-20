@@ -1,0 +1,4 @@
+export const auth_types = {
+  INPUT_VALUE_CHANGE: "INPUT_VALUE_CHANGE",
+  CLEAR_INPUTS_VALUE: "CLEAR_INPUTS_VALUE",
+};
